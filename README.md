@@ -9,7 +9,7 @@
 
 - 💼 Mobile Developer
 - 🌱 Currently learning Flutter animations and UI design
-- 💬 Ask me about anything [here](https://github.com/hernanfebrirahmatullah)
+- 💬 Ask me about anything [here](https://github.com/hernanfebri)
 
 ### Tech Stack
 <p align="left">
@@ -21,6 +21,6 @@
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hernanfebrirahmatullah&show_icons=true&theme=radical" alt="Hernan's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernanfebrirahmatullah&layout=compact&theme=radical" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hernanfebri&show_icons=true&theme=radical" alt="Hernan's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernanfebri&layout=compact&theme=radical" alt="Most Used Languages"/>
 </p>
