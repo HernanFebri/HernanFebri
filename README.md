@@ -13,6 +13,7 @@
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hernanfebri-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hernanfebri/) 
+[![Instagram](https://img.shields.io/badge/Instagram-hernanfebri-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/hernan.febri/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-hernanfebri-lightgrey?style=flat)](https://s.id/PortofolioHernanFebri)
 
 ### Tech Stack
@@ -42,18 +43,6 @@
     <h3>Laundry App (GetX)</h3>
     <p>A Flutter app for laundry management, utilizing GetX for efficient state control.</p>
     <a href="https://github.com/HernanFebri/laundry_app_getx" style="color: #02569B; font-weight: bold;">View Project</a>
-  </div>
-
-  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px;">
-    <h3>Weather App (Flutter)</h3>
-    <p>A weather app built with Flutter and OpenWeather API to display current weather data.</p>
-    <a href="https://github.com/HernanFebri/weather_app_flutter" style="color: #02569B; font-weight: bold;">View Project</a>
-  </div>
-
-  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px;">
-    <h3>Todo App (Flutter)</h3>
-    <p>A simple todo list app with Flutter for task management and Firebase for data storage.</p>
-    <a href="https://github.com/HernanFebri/todo_app_flutter" style="color: #02569B; font-weight: bold;">View Project</a>
   </div>
 
 </div>
