@@ -13,7 +13,7 @@
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hernanfebri-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hernanfebri/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-hernanfebri.com-lightgrey?style=flat)](https://s.id/PortofolioHernanFebri)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hernanfebri-lightgrey?style=flat)](https://s.id/PortofolioHernanFebri)
 
 ### Tech Stack
 <p align="left">
@@ -30,12 +30,18 @@
 
 ### Projects
 
-- **Presence App (GetX)**: A Flutter app for attendance management using GetX for state management.
+<div style="display: flex; flex-direction: column; gap: 10px;">
+
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px;">
+    <h3>Presence App (GetX)</h3>
+    <p>A Flutter app for attendance management using GetX for state management.</p>
+    <a href="https://github.com/HernanFebri/presence_app_getx" style="color: #02569B; font-weight: bold;">View Project</a>
+  </div>
   
-  [![Presence App](https://github.com/HernanFebri/presence_app_getx/blob/main/assets/presence_app_screenshot.png)](https://github.com/HernanFebri/presence_app_getx)
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px;">
+    <h3>Laundry App (GetX)</h3>
+    <p>A Flutter app for laundry management, utilizing GetX for efficient state control.</p>
+    <a href="https://github.com/HernanFebri/laundry_app_getx" style="color: #02569B; font-weight: bold;">View Project</a>
+  </div>
 
-- **Laundry App (GetX)**: A Flutter app for laundry management, utilizing GetX for efficient state control.
-  
-  [![Laundry App](https://github.com/HernanFebri/laundry_app_getx/blob/main/assets/laundry_app_screenshot.png)](https://github.com/HernanFebri/laundry_app_getx)
-
-
+</div>
