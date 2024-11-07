@@ -11,6 +11,10 @@
 - 🌱 Currently learning Flutter animations and UI design
 - 💬 Ask me about anything [here](https://github.com/hernanfebri)
 
+### Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hernanfebri-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hernanfebri/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-hernanfebri.com-lightgrey?style=flat)](https://hernanfebri.com)
+
 ### Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart"/>
@@ -19,8 +23,11 @@
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" alt="Firebase"/>
 </p>
 
+### Projects
+- [Presence App (GetX)](https://github.com/HernanFebri/presence_app_getx.git): A Flutter app for attendance management using GetX for state management.
+- [Laundry App (GetX)](https://github.com/HernanFebri/laundry_app_getx.git): A Flutter app for laundry management, utilizing GetX for efficient state control.
+
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hernanfebri&show_icons=true&theme=radical" alt="Hernan's GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernanfebri&layout=compact&theme=radical" alt="Most Used Languages"/>
 </p>
