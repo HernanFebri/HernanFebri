@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Hernan</h1>
+<h1 align="center">Hello! I'm Hernan Febri</h1>
 <p align="center"><i>I create apps and love to learn new things :)</i></p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hernanfebri-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hernanfebri/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-hernanfebri.com-lightgrey?style=flat)](https://hernanfebri.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hernanfebri.com-lightgrey?style=flat)](https://s.id/PortofolioHernanFebri)
 
 ### Tech Stack
 <p align="left">
@@ -23,11 +23,19 @@
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" alt="Firebase"/>
 </p>
 
-### Projects
-- [Presence App (GetX)](https://github.com/HernanFebri/presence_app_getx.git): A Flutter app for attendance management using GetX for state management.
-- [Laundry App (GetX)](https://github.com/HernanFebri/laundry_app_getx.git): A Flutter app for laundry management, utilizing GetX for efficient state control.
-
 ### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernanfebri&layout=compact&theme=radical" alt="Most Used Languages"/>
 </p>
+
+### Projects
+
+- **Presence App (GetX)**: A Flutter app for attendance management using GetX for state management.
+  
+  [![Presence App](https://github.com/HernanFebri/presence_app_getx/blob/main/assets/presence_app_screenshot.png)](https://github.com/HernanFebri/presence_app_getx)
+
+- **Laundry App (GetX)**: A Flutter app for laundry management, utilizing GetX for efficient state control.
+  
+  [![Laundry App](https://github.com/HernanFebri/laundry_app_getx/blob/main/assets/laundry_app_screenshot.png)](https://github.com/HernanFebri/laundry_app_getx)
+
+
