@@ -28,21 +28,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernanfebri&layout=compact&theme=radical" alt="Most Used Languages"/>
 </p>
-
-### Projects
-
-<div style="display: flex; flex-direction: column; gap: 10px;">
-
-  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px;">
-    <h3>Presence App (GetX)</h3>
-    <p>A Flutter app for attendance management using GetX for state management.</p>
-    <a href="https://github.com/HernanFebri/presence_app_getx" style="color: #02569B; font-weight: bold;">View Project</a>
-  </div>
-  
-  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px;">
-    <h3>Laundry App (GetX)</h3>
-    <p>A Flutter app for laundry management, utilizing GetX for efficient state control.</p>
-    <a href="https://github.com/HernanFebri/laundry_app_getx" style="color: #02569B; font-weight: bold;">View Project</a>
-  </div>
-
-</div>
